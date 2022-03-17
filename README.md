@@ -4,6 +4,8 @@ My name is Brian and I solve and create problems with computers.
 
 I work as an assistant professor at the Department of Electrical and Computer Engineering at Aarhus University.
 
+I was born the year the i386 became widely available.
+
 <!--
 **bvda/bvda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
